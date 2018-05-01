@@ -2,15 +2,30 @@ Files in this package:
 
 nn/*: contains 2 saved Tensorflow networks. "good1" is the one used, "bad1" is just an example used in writing the notebook
 tf_rec.py: the main script
+
+
 user_book.csv: the user/book dataset
+
+
 user_char.csv: the user traits dataset
+
+
 fmc_challenge_presentation.ipynb: notebook containing some exploratory analysis and explanation of the solution
+
 
 Requirements:
 The code was developed and tested on Python 3.
+
+
 Packages needed to run tf_rec.py: tensorflow, numpy, pandas
+
+
 Packages needed to run the notebook: tensorflow, numpy, pandas, matplotlib, sklearn
+
+
 Alternatively, the notebook can be viewed as gist here: https://gist.github.com/mihaierm/295f76098f618eaf12c70aa2e9e42691
+
+
 
 How to run:
 
